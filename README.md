@@ -18,5 +18,3 @@ Whether you're learning quantum computing or documenting your path, this reposit
 
 ---
 
-## 🗂️ Repository Structure
-
